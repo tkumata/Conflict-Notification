@@ -14,6 +14,7 @@
 		895050751D4DDE280063EC3F /* Conflict_Notification.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 895050731D4DDE280063EC3F /* Conflict_Notification.xcdatamodeld */; };
 		895050771D4DDE280063EC3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 895050761D4DDE280063EC3F /* Assets.xcassets */; };
 		8950507A1D4DDE280063EC3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 895050781D4DDE280063EC3F /* LaunchScreen.storyboard */; };
+		898E706A1D542FCF001832AE /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 898E70691D542FCF001832AE /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +29,7 @@
 		895050761D4DDE280063EC3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		895050791D4DDE280063EC3F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8950507B1D4DDE280063EC3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		898E70671D54280B001832AE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		898E70691D542FCF001832AE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		8950505B1D4DDE270063EC3F = {
 			isa = PBXGroup;
 			children = (
+				898E70691D542FCF001832AE /* README.md */,
 				895050661D4DDE270063EC3F /* Conflict Notification */,
 				895050651D4DDE270063EC3F /* Products */,
 			);
@@ -65,7 +67,6 @@
 				8950506B1D4DDE280063EC3F /* AppDelegate.m */,
 				8950506D1D4DDE280063EC3F /* ViewController.h */,
 				8950506E1D4DDE280063EC3F /* ViewController.m */,
-				898E70671D54280B001832AE /* README.md */,
 				895050701D4DDE280063EC3F /* Main.storyboard */,
 				895050761D4DDE280063EC3F /* Assets.xcassets */,
 				895050781D4DDE280063EC3F /* LaunchScreen.storyboard */,
@@ -157,6 +158,7 @@
 			files = (
 				8950506F1D4DDE280063EC3F /* ViewController.m in Sources */,
 				8950506C1D4DDE280063EC3F /* AppDelegate.m in Sources */,
+				898E706A1D542FCF001832AE /* README.md in Sources */,
 				895050751D4DDE280063EC3F /* Conflict_Notification.xcdatamodeld in Sources */,
 				895050691D4DDE280063EC3F /* main.m in Sources */,
 			);
